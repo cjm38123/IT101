@@ -1,1 +1,2 @@
 Hello name: christian major: IT
+Hello name : Ishaan Dash Major: Information Technology
